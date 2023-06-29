@@ -1,0 +1,11 @@
+{
+  "posts": [{
+    "title": "json-server", 
+    "author": "typicode", 
+    "editora": "", 
+    "genere": "", 
+    "valutazione": "", 
+    "comento":"", 
+    "imagine":""
+ }]
+}

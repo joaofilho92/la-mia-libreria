@@ -3,5 +3,9 @@
 @tailwind utilities;
 
 body{
-    background-color: #1c1917;
+    background-image: url("/public/img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+   
 }

@@ -1,3 +1,4 @@
+import "tailwindcss/tailwind.css";
 
 const Footer = () => {
   return (
@@ -5,6 +6,6 @@ const Footer = () => {
       <h1>Copyright © 2023 Joao Batista Lopes Filho Dev.</h1>
     </div>
   );
-}
+};
 
-export default Footer
+export default Footer;

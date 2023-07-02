@@ -7,16 +7,16 @@ const Menu = () => {
       <Link to="/cadastro">
         <a
           href="/cadastro"
-          className="text-fuchsia-200 text-xl hover:text-pink-300"
+          className="text-fuchsia-200 text-xl hover:text-pink-300 font-bold"
         >
-          Nuovo 
+          Nuovo
         </a>
       </Link>
 
       <Link to="/minhacolecao">
         <a
           href="/minhacolecao"
-          className="text-fuchsia-200 text-xl  hover:text-pink-300"
+          className="text-fuchsia-200 text-xl  hover:text-pink-300 font-bold"
         >
           Collezione
         </a>
@@ -25,7 +25,7 @@ const Menu = () => {
       <Link to="/lidos">
         <a
           href="lidos"
-          className="text-fuchsia-200 text-xl  hover:text-pink-300"
+          className="text-fuchsia-200 text-xl  hover:text-pink-300 font-bold"
         >
           Letti
         </a>
@@ -34,7 +34,7 @@ const Menu = () => {
       <Link to="/paraler">
         <a
           href="paraler"
-          className="text-fuchsia-200 text-xl  hover:text-fuchsia-500"
+          className="text-fuchsia-200 text-xl  hover:text-fuchsia-500 font-bold"
         >
           In Lettura
         </a>
@@ -43,7 +43,7 @@ const Menu = () => {
       <Link to="/paraler">
         <a
           href="paraler"
-          className="text-fuchsia-200 text-xl  hover:text-fuchsia-500"
+          className="text-fuchsia-200 text-xl  hover:text-fuchsia-500 font-bold"
         >
           Non Letti
         </a>
